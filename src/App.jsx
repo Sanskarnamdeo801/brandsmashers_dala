@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // Aapke purane saare original sections
 import { Hero } from './components/Hero';
 import { Navbar } from './components/Navbar/Navbar';
+import { BrandLogos } from './components/BrandLogos/BrandLogos';
 import { Stats } from './components/Stats/Stats';
 import { WhyUs } from './components/WhyUs/WhyUs';
 import { Testimonials } from './components/Testimonials/Testimonials';
@@ -21,6 +22,7 @@ function Home() {
   return (
     <main className="w-full flex flex-col bg-transparent">
       <Hero />
+      <BrandLogos />
       <Stats />
       <WhyUs />
       <Testimonials /> 

@@ -4,7 +4,6 @@ import CircularGallery from '../CircularGallery/CircularGallery.jsx';
 
 export function Testimonials() {
   return (
-    // bg-transparent ensures peeche ka 3D canvas dikhta rahe
     <section id="testimonials" className="relative w-full bg-transparent z-20 py-32 overflow-hidden">
       
       {/* Title Section */}

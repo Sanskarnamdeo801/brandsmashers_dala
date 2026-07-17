@@ -9,26 +9,22 @@ const features = [
   {
     id: 1,
     title: "Fast Scaling",
-    description: "Deploy engineering teams in days, not months.",
-    icon: "⚡"
+    description: "Deploy engineering teams in days, not months."
   },
   {
     id: 2,
     title: "AI Expertise",
-    description: "Human-in-the-loop evaluation and AI-ready engineering.",
-    icon: "🤖"
+    description: "Human-in-the-loop evaluation and AI-ready engineering."
   },
   {
     id: 3,
     title: "End-to-End Delivery",
-    description: "From strategy to deployment.",
-    icon: "⚙️"
+    description: "From strategy to deployment."
   },
   {
     id: 4,
     title: "Long-Term Partnership",
-    description: "We're invested in outcomes, not just deliverables.",
-    icon: "🤝"
+    description: "We're invested in outcomes, not just deliverables."
   }
 ];
 
